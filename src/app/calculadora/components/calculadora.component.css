@@ -1,0 +1,48 @@
+.kz-btn {
+    width: 90%;
+    margin: 4px;
+}
+.kz-input-text {
+    margin-top: 3px;
+    width:96%;
+	margin-left:6px
+}
+.kz-pad-20 {
+	padding: 20px;
+}
+.col-xs-3, .col-xs-9 {
+	padding: 0px;
+}
+
+/* .container-fluid {
+    width: 34rem;
+} */
+
+.linha1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.limpar {
+    width: 6rem;
+}
+
+.tela {
+    width: 19rem;
+}
+
+.btn_tot {
+    margin-left: .25rem;
+    margin-bottom: .25rem;
+    width: 6rem;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.btn_ig {
+    margin-left: .25rem;
+    margin-bottom: .25rem;
+    width: 6rem;
+    background-color: green;
+    border-radius: 10px;
+}
